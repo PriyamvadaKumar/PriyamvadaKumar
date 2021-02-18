@@ -6,6 +6,7 @@
 Hi There :wave:
 
 Computational biologist in training with experience in analyzing NGS and medical image datasets
+
 Contributed to potential protein-drug interaction study ,disease spread modeling, anomaly detection and biological system simulation.
 Expertise in machine learning and deep learning with a thorough understanding of the underlying statstical and computational principles.
 
