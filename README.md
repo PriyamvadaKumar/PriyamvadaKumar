@@ -3,12 +3,13 @@
 
 # About Me
 
-Hello !
+Hi There :wave:
 
-Computational biologist in training with experience in analyzing NGS and medical image datasets both locally and in a distributed manner. Contributed to potential protein-drug targets discovery, clinical outcomes prediction, and biological system simulation.
+Computational biologist in training with experience in analyzing NGS and medical image datasets both locally and in a distributed manner.
+Contributed to potential protein-drug interaction study ,disease spread modeling, anomaly detection and biological system simulation.
 Expertise in machine learning and deep learning with a thorough understanding of the underlying statstical and computational principles.
 
-EDUCATION
+EDUCATION :octocat:
 
 
 Shiv Nadar University - Biotechnology, Chemistry
