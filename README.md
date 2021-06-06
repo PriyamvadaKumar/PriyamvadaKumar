@@ -9,7 +9,7 @@ Computational biologist in training with experience in analyzing NGS and medical
 
 Contributed to various projects and research including protein-drug interaction ,disease spread modeling, anomaly detection and biological system simulation.
 
-Expertise in machine learning and deep learning with a thorough understanding of the underlying statstical and computational principles.
+Experienced in machine learning and deep learning with a thorough understanding of the underlying statstical and computational principles.
 
 EDUCATION :octocat:
 
