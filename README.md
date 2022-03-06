@@ -5,7 +5,7 @@
 
 Hi There :wave:
 
-Computational biologist with experience in analyzing NGS and medical image datasets
+I'm a Computational biologist with experience in analyzing NGS and medical image datasets
 
 Contributed to various projects and research including protein-drug interaction, disease spread modeling, anomaly detection and biological system simulation.
 
